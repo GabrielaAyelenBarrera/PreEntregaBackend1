@@ -1,0 +1,280 @@
+[
+  {
+    "id": 1,
+    "title": "Air Jordan 1",
+    "description": "High-top basketball shoes with premium leather",
+    "code": "AJ1-NIKE",
+    "price": 120,
+    "status": true,
+    "stock": 45,
+    "category": "Basketball",
+    "thumbnails": [
+      "images/air-jordan-1.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "UltraBoost 21",
+    "description": "High-performance running shoes with responsive cushioning",
+    "code": "UB21-ADIDAS",
+    "price": 180,
+    "status": true,
+    "stock": 40,
+    "category": "Running"
+  },
+  {
+    "id": 3,
+    "title": "Converse Chuck Taylor",
+    "description": "Classic casual sneakers with a canvas upper",
+    "code": "CT-CONVERSE",
+    "price": 60,
+    "status": true,
+    "stock": 100,
+    "category": "Casual",
+    "thumbnails": [
+      "images/converse-chuck-taylor.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Vans Old Skool",
+    "description": "Iconic skateboarding shoes with suede and canvas uppers",
+    "code": "OS-VANS",
+    "price": 70,
+    "status": true,
+    "stock": 80,
+    "category": "Casual"
+  },
+  {
+    "id": 5,
+    "title": "Nike Air Max 270",
+    "description": "Running shoes with a large air unit for maximum comfort",
+    "code": "AM270-NIKE",
+    "price": 160,
+    "status": true,
+    "stock": 60,
+    "category": "Running",
+    "thumbnails": [
+      "images/nike-air-max-270.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "New Balance 990v5",
+    "description": "Premium running shoes with superior cushioning and support",
+    "code": "990V5-NB",
+    "price": 175,
+    "status": true,
+    "stock": 30,
+    "category": "Running",
+    "thumbnails": [
+      "images/nb-990v5.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Puma RS-X",
+    "description": "Futuristic casual shoes with bold design and comfort",
+    "code": "RSX-PUMA",
+    "price": 110,
+    "status": true,
+    "stock": 70,
+    "category": "Casual"
+  },
+  {
+    "id": 8,
+    "title": "Asics Gel-Kayano 27",
+    "description": "Stable running shoes with gel cushioning and durable support",
+    "code": "GK27-ASICS",
+    "price": 160,
+    "status": true,
+    "stock": 35,
+    "category": "Running",
+    "thumbnails": [
+      "images/asics-gel-kayano-27.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Reebok Classic Leather",
+    "description": "Timeless casual sneakers with a leather upper and EVA midsole",
+    "code": "CL-REEBOK",
+    "price": 80,
+    "status": true,
+    "stock": 90,
+    "category": "Casual"
+  },
+  {
+    "id": 10,
+    "title": "Nike SB Dunk Low",
+    "description": "Skateboarding shoes with a low-profile design and padded tongue",
+    "code": "SBDL-NIKE",
+    "price": 120,
+    "status": true,
+    "stock": 40,
+    "category": "Skate"
+  },
+  {
+    "id": 11,
+    "title": "Adidas Samba",
+    "description": "Classic casual shoes with a leather upper and gum sole",
+    "code": "SAMBA-ADIDAS",
+    "price": 100,
+    "status": true,
+    "stock": 50,
+    "category": "Casual"
+  },
+  {
+    "id": 12,
+    "title": "Hoka One One Bondi 8",
+    "description": "Maximalist running shoes with plush cushioning and support",
+    "code": "B8-HOKA",
+    "price": 180,
+    "status": true,
+    "stock": 25,
+    "category": "Running"
+  },
+  {
+    "id": 13,
+    "title": "Nike Air Force 1",
+    "description": "Iconic casual sneakers with a leather upper and cushioned sole",
+    "code": "AF1-NIKE",
+    "price": 90,
+    "status": true,
+    "stock": 75,
+    "category": "Casual",
+    "thumbnails": [
+      "images/nike-air-force-1.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Adidas NMD R1",
+    "description": "Stylish casual shoes with a sock-like fit and boost cushioning",
+    "code": "NMD-R1-ADIDAS",
+    "price": 130,
+    "status": true,
+    "stock": 45,
+    "category": "Casual"
+  },
+  {
+    "id": 15,
+    "title": "Saucony Triumph 19",
+    "description": "Premium running shoes with a plush ride and durable support",
+    "code": "T19-SAUC",
+    "price": 160,
+    "status": true,
+    "stock": 20,
+    "category": "Running"
+  },
+  {
+    "id": 16,
+    "title": "On Cloudstratus",
+    "description": "Double-layer cushioning running shoes with a comfortable ride",
+    "code": "CSTRAT-ON",
+    "price": 170,
+    "status": true,
+    "stock": 30,
+    "category": "Running"
+  },
+  {
+    "id": 17,
+    "title": "K-Swiss Classic VN",
+    "description": "Heritage-inspired casual sneakers with a durable leather upper",
+    "code": "CVN-KSW",
+    "price": 85,
+    "status": true,
+    "stock": 60,
+    "category": "Casual"
+  },
+  {
+    "id": 18,
+    "title": "Brooks Ghost 14",
+    "description": "Balanced running shoes with smooth transitions and a cushioned ride",
+    "code": "G14-BROOKS",
+    "price": 140,
+    "status": true,
+    "stock": 40,
+    "category": "Running"
+  },
+  {
+    "id": 19,
+    "title": "Merrell Moab 2",
+    "description": "Versatile hiking shoes with waterproof protection and stability",
+    "code": "MOAB2-MER",
+    "price": 120,
+    "status": true,
+    "stock": 35,
+    "category": "Hiking",
+    "thumbnails": [
+      "images/merrell-moab-2.jpg"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Clarks Desert Boot",
+    "description": "Classic chukka boots with a suede upper and crepe sole",
+    "code": "DB-CLARKS",
+    "price": 150,
+    "status": true,
+    "stock": 25,
+    "category": "Casual"
+  },
+  {
+    "id": 21,
+    "title": "New Product",
+    "description": "A new description",
+    "code": "NEWCODE123",
+    "price": 99.99,
+    "stock": 10,
+    "category": "New Category",
+    "thumbnails": [
+      "image1.jpg",
+      "image2.jpg"
+    ],
+    "status": true
+  },
+  {
+    "id": 22,
+    "title": "Nuevo Producto",
+    "description": "Descripción del nuevo producto",
+    "code": "NP002",
+    "price": 150,
+    "stock": 30,
+    "category": "Categoría 2",
+    "thumbnails": [
+      "imagen1.jpg",
+      "imagen2.jpg"
+    ],
+    "status": true
+  },
+  {
+    "id": 23,
+    "title": "Otro Producto",
+    "description": "Descripción del nuevo producto",
+    "code": "NP092",
+    "price": 150,
+    "stock": 30,
+    "category": "Categoría 2",
+    "thumbnails": [
+      "imagen1.jpg",
+      "imagen2.jpg"
+    ],
+    "status": true
+  },
+  {
+    "id": 24,
+    "title": "Mas Producto",
+    "description": "Descripción del nuevo producto",
+    "code": "Ni092",
+    "price": 150,
+    "stock": 30,
+    "category": "Categoría 2",
+    "thumbnails": [
+      "imagen1.jpg",
+      "imagen2.jpg"
+    ],
+    "status": true,
+    "carritoID": null
+  }
+]
